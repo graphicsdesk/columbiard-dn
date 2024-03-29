@@ -7,12 +7,104 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia College and the School of Engineering and Applied Science released regular decisions for the class of 2028 on Thursday, admitting 2,319 students of 60,248 applicants, according to a press release from Columbia Undergraduate Admissions. The acceptance rate dipped slightly to 3.85 percent from last year’s 3.9 percent."
+          },
+          {
+            "type": "text",
+            "value": "The class of 2028 is the first to be admitted after the Supreme Court overturned Grutter v. Bollinger in June 2023, effectively ending race-conscious college admissions policies. In July, Columbia reaffirmed its commitment to diversity, writing in a statement that “diversity is a positive force across every dimension of Columbia, and we can and must find a durable and meaningful path to preserve it.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read More: </i><a href=\"https://www.columbiaspectator.com/news/2023/08/23/shafik-breaks-silence-on-end-to-affirmative-action/\"><i>Shafik breaks silence on end to affirmative action</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "A total of 60,248 students applied for admission to Columbia College and SEAS across its early and regular decision pools, the third-largest pool in the University’s history—a slight increase from the 57,129 applicants who applied during the 2022-23 cycle."
+          },
+          {
+            "type": "text",
+            "value": "“My colleagues and I have treasured the time we’ve spent learning about individuals through their applications,” Jessica Marinaccio, dean of undergraduate admissions and financial aid, said in the press release. “In the weeks ahead, we are excited to support each admitted student as they endeavor to make the best possible choice for themselves.”"
+          },
+          {
+            "type": "text",
+            "value": "Applications remain significantly higher than pre-pandemic figures. For the 2019-20 admissions cycle, only 40,083 prospective students applied."
+          },
+          {
+            "type": "text",
+            "value": "The increase aligns with a sharp increase in applications nationwide, largely due to test-optional policies introduced during the pandemic. Last year, Columbia became the first Ivy to extend its <a href=\"https://www.columbiaspectator.com/news/2023/03/01/columbia-first-ivy-to-go-permanently-test-optional/\">test-optional policy</a> without time limits."
+          },
+          {
+            "type": "text",
+            "value": "The admitted class of 2028 hails from 108 countries and all 50 states as well as the District of Columbia, Guam, Puerto Rico, the Mariana Islands, and the U.S. Virgin Islands. In the statement, Marinaccio said this year’s admitted students are “so much more than their impressive credentials.”"
+          },
+          {
+            "type": "text",
+            "value": "“These students are interdisciplinary change-makers, caring community members, and individuals who lead with genuine kindness,” she said. “We know that our entire community at Columbia will have great cause to celebrate when the class of 2028 joins us in Morningside Heights this fall!”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "barchart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "This admissions cycle, Columbia saw the first <a href=\"https://www.columbiaspectator.com/news/2023/12/14/columbia-college-seas-see-first-increase-in-early-decision-applications-in-three-years/\">increase</a> in early decision applicants in three years, rising almost 5 percent from the previous year."
+          },
+          {
+            "type": "text",
+            "value": "Columbia maintains its early decision policy, despite peer institutions moving away from the model. Early decision has been <a href=\"https://www.columbiaspectator.com/news/2022/02/15/columbia-claims-to-evaluate-applicants-on-a-need-blind-basis-does-its-early-decision-process-suggest-otherwise/\">criticized</a> for favoring wealthier applicants, as students who are accepted through early decision are contractually obligated to enroll in that school without knowing their financial aid package."
+          },
+          {
+            "type": "text",
+            "value": "The Free Application for Federal Student Aid experienced significant processing delays this cycle, complicating admissions timelines. Furthermore, applicants reported encountering bugs when completing the form, per the <a href=\"https://fsapartners.ed.gov/knowledge-center/topics/fafsa-simplification-information/2024-25-fafsa-issue-alerts\">Federal Student Aid website</a>. The Department of Education <a href=\"https://www.columbiaspectator.com/news/2024/01/18/cc-seas-financial-aid-adapts-to-fafsa-changes/\">revamped the FAFSA</a> for this cycle to streamline the process and expand access to federal support. According to <a href=\"https://apnews.com/article/fafsa-student-financial-aid-college-b8d126283a53598c24b9567ed97d9138\">the Associated Press</a>, colleges did not begin receiving FAFSA information until mid-March."
+          },
+          {
+            "type": "text",
+            "value": "In the press release, the Office of Undergraduate Admissions wrote that it remains committed to financial aid. Students received estimates of their financial aid package at the time of admission, with around half of admitted students offered need-based financial aid."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia continues to meet 100 percent of demonstrated need for all admitted students, without loans and regardless of citizenship,” the announcement reads."
+          },
+          {
+            "type": "text",
+            "value": "Columbia College and SEAS released their regular decision acceptances one day after <a href=\"https://www.columbiaspectator.com/news/2024/03/27/barnard-acceptance-rate-rises-to-7-percent-for-class-of-2028/\">Barnard released its regular decision results</a>, in which it accepted 7 percent of applicants out of 11,832 applications, a slightly higher rate than last year."
+          },
+          {
+            "type": "text",
+            "value": "Students admitted through regular decision were informed virtually at 7 p.m. through their applicant portal. They have until May 1 to accept their offer of admission."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Grace Hamilton can be contacted at </i><a href=\"mailto:grace.hamilton@columbiaspectator.com\"><i>grace.hamilton@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/gracehhamiltonn\"><i>@gracehhamiltonn</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Staff Writer Cameron Spurr can be contacted at </i><a href=\"mailto:cameron.spurr@columbiaspectator.com\"><i>cameron.spurr@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/ColumbiaSpec\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Diya Nair can be contacted at </i><a href=\"mailto:diya.nair@columbiaspectator.com\"><i>diya.nair@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/diyana1r?s=21&t=YKbrfnJYTVoHCHmurLtVtA\"><i>@diyanai1r</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Columbia admits 2,319 students to class of 2028, acceptance rate drops slightly to 3.85 percent",
+        "date": "March 28, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/grace-hamilton/\">Grace Hamilton</a> and <a href=\"https://www.columbiaspectator.com/contributors/cameron-spurr/\">Cameron Spurr</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/diya-nair/\">Diya Nair</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QGC6HCHB7ZGFBLMQEXTWWTUZMY.jpeg",
+        "cover_caption": "Jessica Samudio / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1ptqHQKd4RyV3H6vkTsVEHqvXlngo-w5i4PPLgJjsUyE/edit"
       }
     }
   }
